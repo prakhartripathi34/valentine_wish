@@ -6,10 +6,10 @@ const phrases = {
   2: "Really?",
   3: "Plzzz",
   4: "I am  gonna cry",
-  5: "No is not acceptable :(",
-  6: "Noi",
+  5: "Fss chuki hai bete :(",
+  6: "Bhav mt khaa yrr",
   7: "Are yaar",
-  8: "Chup chap yes karo",
+  8: "Chup chap yes kr",
   9: "Still here.",
   10: "Button invalid lol",
 };
